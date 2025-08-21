@@ -1,4 +1,4 @@
-import RUSLEApp from '../rusle-web/src/RUSLEApp'
+import RUSLEApp from './RUSLEApp'
 
 export default function App() {
   return <RUSLEApp />
